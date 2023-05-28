@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Hongyi Xu"
-  avatar           : "profile.png"
-  bio              : "Research Scientist @ ByteDance"
+  avatar           : "profile.jpeg"
+  bio              : "Research Scientist"
   location         : "San Jose, CA"
-  employer         :
+  employer         : "ByteDance"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gqtTGD4AAAAJ&hl=en"
   email            :  hongyixu@bytedance.com
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hongyi-xu-9215b5a4/"
   orcid            : 
   pinterest        :
   soundcloud       :
