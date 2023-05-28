@@ -1,3 +1,13 @@
+---
+# title: "Paper Title Number 2"
+collection: publications
+# permalink: /publication/2010-10-01-paper-title-number-2
+# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+#date: 2010-10-01
+#venue: 'Journal 1'
+#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
 <table class="imgtable"><tr>
 <td><img style="float: left; padding-right: 10px;" src="../images/omniavatar.png" alt="alt text" width="260px" height="149" />&nbsp;</td>
 <td align="left"><p><strong><a href="https://hongyixu37.github.io/omniavatar/">OmniAvatar: Geometry-Guided Controllable 3D Head Synthesis</a></strong><br />
