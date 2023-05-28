@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div align="left">
-I am currently a Research Scientist at ByteDance Inc/TikTok. Before that, I worked as a Senior Research Scientist at [Google Research](https://ai.google/) and I was a Postdoctoral Research Associate at [Disney Research Zurich](https://studios.disneyresearch.com/). I graduated with the Ph.D. degree at [Computer Science Department of University of Southern California](https://www.cs.usc.edu/) in August 2017, under supervision of [Prof. Jernej Barbič](https://viterbi-web.usc.edu/~jbarbic/). Before that, I graduated with the B. Eng degree from [Computer Science and Technology Department in Zhejiang University](http://www.en.cs.zju.edu.cn/), China in 2012. 
+I am currently a Research Scientist at Intelligent Creation Lab, <a href="https://www.bytedance.com/en/">ByteDance</a>. Before that, I worked as a Senior Research Scientist at <a href="https://ai.google">Google Research</a> and I was a Postdoctoral Research Associate at <a href="https://studios.disneyresearch.com/"> Disney Research Zurich</a>. I graduated with the Ph.D. degree at <a href="https://www.cs.usc.edu/)">Computer Science Department of University of Southern California</a> in August 2017, under supervision of <a href="https://viterbi-web.usc.edu/~jbarbic/">Prof. Jernej Barbič</a>. Before that, I graduated with the B. Eng degree from <a href="http://www.en.cs.zju.edu.cn/">Computer Science and Technology Department in Zhejiang University</a>, China in 2012. 
 </div>
 <p></p>
 <div align="left">
@@ -20,7 +20,7 @@ Work Experience
 <i>2021.10-Present</i>
 <ul>
   <li>
-  <p>Research Scientist, ByteDance</p>
+  <p>Research Scientist,  Intelligent Creation Lab, ByteDance</p>
   </li>
 </ul>
 <i>2019.09-2021.09</i>
