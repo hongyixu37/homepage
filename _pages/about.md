@@ -14,6 +14,7 @@ I am currently a Research Scientist at Intelligent Creation Lab, <a href="https:
 <div align="left">
 My research interests are in computer graphics/vision, physically based animation, 3d human modeling and reconstruction, computational robotics, contact and interactive physics. 
 </div>
+<p></p>
 
 Work Experience
 ======
