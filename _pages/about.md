@@ -21,19 +21,19 @@ Work Experience
 <i>2021.10-Present</i>
 <ul>
   <li>
-  <p>Research Scientist,  Intelligent Creation Lab, ByteDance</p>
+  <p>Research Scientist,  Intelligent Creation Lab, ByteDance, CA, USA</p>
   </li>
 </ul>
 <i>2019.09-2021.09</i>
 <ul>
   <li>
-  <p>Research Scientist, Google Research</p>
+  <p>Research Scientist, Google Research Zurich, Switzerland</p>
   </li>
 </ul>
 <i>2017.09-2019.01</i>
 <ul>
   <li>
-  <p>Postdoctoral Research Associate, Disney Research Zurich</p>
+  <p>Postdoctoral Research Associate, Disney Research Zurich, Switzerland</p>
   </li>
 </ul>
 
@@ -42,13 +42,13 @@ Education
 <i>2012.08-2017.08</i>
 <ul>
   <li>
-  <p>Computer Science, University of Southern California</p>
+  <p>Computer Science, University of Southern California, CA, USA</p>
   </li>
 </ul>
 <i>2008.09-2012.06</i>
 <ul>
   <li>
-  <p>Major: Computer Science and Technology, Zhejiang University</p>
+  <p>Major: Computer Science and Technology, Zhejiang University, China</p>
   </li>
   <li>
   <p>Minor: Advanced Class of Engineering Education, Chu KoChen Honors College</p>
